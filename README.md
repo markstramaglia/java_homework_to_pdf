@@ -1,2 +1,2 @@
-# java_homework_to_pdf
+# Java Homework to PDF (PowerShell Script)
 PowerShell Script to Convert Java Homework to PDF Files for Grading
